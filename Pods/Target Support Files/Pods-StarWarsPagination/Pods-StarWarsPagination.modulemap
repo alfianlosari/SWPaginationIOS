@@ -1,0 +1,6 @@
+framework module Pods_StarWarsPagination {
+  umbrella header "Pods-StarWarsPagination-umbrella.h"
+
+  export *
+  module * { export * }
+}
